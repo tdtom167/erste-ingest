@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+dbx_ingest/setup.py
+dbx_ingest.egg-info/PKG-INFO
+dbx_ingest.egg-info/SOURCES.txt
+dbx_ingest.egg-info/dependency_links.txt
+dbx_ingest.egg-info/top_level.txt
+dbx_ingest/src/GDLDLATIngest.py
+dbx_ingest/src/__init__.py

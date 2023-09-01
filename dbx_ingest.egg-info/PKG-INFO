@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: dbx-ingest
+Version: 0.0.1
+Summary: Set of functionalities for ingesting data from various sources into Databricks
+Author-email: Tomas Bouma <tomas.bouma@datasentics.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Databricks ingest erste
+
+This framework is used to ingest data from all the supported data sources in Erste.
+
+To build this framework Databricks asset bundles(DAB) is used.
+https://docs.databricks.com/en/dev-tools/bundles/settings.html

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=bundle_config_schema.json
+bundle:
+  name: "Erste Databricks Ingest Framework"
+targets:
+  development:
+    default: true
+    workspace:
+      host:  'https://adb-8406481409439422.2.azuredatabricks.net/'
+    artifacts:
+      dbx_ingest:
+        type: wheel
+        path: ./dbx_ingest
+    
+    
+  
